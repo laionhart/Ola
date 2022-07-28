@@ -1,1 +1,1 @@
-echo "olá";
+echo "olá";echo "olá" a todos;
